@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: rgb(99 166 188);
+  background-color: rgba(83, 206, 247, 0.774);
 }
 
 a {
@@ -33,7 +33,7 @@ a {
 
 .mdl-layout__content {
   margin-left: 20px;
-  color: black;
+  color: white;
 }
 
 .mdl-layout__header-row {
@@ -41,7 +41,7 @@ a {
 }
 
 .mdl-layout-title {
-  color: black;
+  color: white;
 }
 
 #button-one {
