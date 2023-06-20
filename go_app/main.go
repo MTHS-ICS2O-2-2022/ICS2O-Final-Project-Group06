@@ -18,7 +18,6 @@ func main() {
 	fmt.Println("\nType number '1' or number '2' to begin!")
 	currentAnswer = 0
 	fmt.Scanln(&currentAnswer)
-
 	if currentAnswer == 1 || currentAnswer == 2 { // Start
 		fmt.Println("\nGood job, you now know how to play!")
 		fmt.Println("And now, we begin.")
